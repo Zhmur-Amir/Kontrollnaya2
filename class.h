@@ -267,4 +267,4 @@ ClntN FuncVvoda(const char t);
 
 
 
-#define int_r cout<<"Daschan opyat spisivaesh!"<<endl;
+#define int_r cout<<"Daschan opyat spisivaesh! -.-"<<endl;
