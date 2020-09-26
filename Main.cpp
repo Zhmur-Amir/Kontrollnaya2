@@ -42,6 +42,7 @@ ClntN FuncVvoda(const char t)
          {
             cout<<"Enter "<<i+1<<" digit: ";
             cin>>m;
+            int_r      
             if(cin.fail() || m>9 || m<0)
          {
              cout<<"Error! Wrong digit";
